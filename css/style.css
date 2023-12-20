@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    border: none;
+    cursor: pointer;
+}
+
+.about-img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.about-name {
+    font-size: 30px;
+    font-weight: 700;
+    font-family: sans-serif;
+    color: green;
+}
+
+.about-age {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.about-title {
+    width: 250px;
+}
+
+.about-btn button {
+    padding: 20px 15px;
+    background: red;
+    color: orangered;
+    font-size: 25px;
+    border-radius: 15px;
+}
